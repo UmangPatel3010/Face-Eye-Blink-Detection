@@ -65,9 +65,6 @@ This repository implements a real-time **Face Detection and Eye Blink Detection 
 ## Contributing
 Contributions are welcome! If you would like to enhance the project or fix any issues, feel free to submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - [Mediapipe](https://mediapipe.dev) for providing a robust framework for facial landmark detection.
 - [OpenCV](https://opencv.org) for video processing and visualization tools.
