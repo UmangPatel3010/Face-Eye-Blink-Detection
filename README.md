@@ -46,14 +46,18 @@ This repository implements a real-time **Face Detection and Eye Blink Detection 
    pip install -r requirements.txt
    ```
 
-3. Run the project:
+3.1. Run the project for just face detection:
    ```bash
-   python main.py
+   python FaceDetection.py
+   ```
+3.2. Run the project for the eye blink detection :
+   ```bash
+   python EyeBlinkDetection.py
    ```
 
 ## Usage
 - Ensure you have a webcam connected to your device.
-- Run the `main.py` script to start the detection system.
+- Run the `FaceDetection.py` or `EyeBlinkDetection.py` script to start the detection system.
 - The application will display a live video feed with detected faces and eye blink status.
 
 ## Contributing
