@@ -46,7 +46,8 @@ This repository implements a real-time **Face Detection and Eye Blink Detection 
    pip install -r requirements.txt
    ```
 
-3. Run the project   
+3. Run the project
+   
    i. For face detection:
    ```bash
    python FaceDetection.py
