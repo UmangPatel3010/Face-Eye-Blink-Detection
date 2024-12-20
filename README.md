@@ -71,6 +71,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 - [Mediapipe](https://mediapipe.dev) for providing a robust framework for facial landmark detection.
 - [OpenCV](https://opencv.org) for video processing and visualization tools.
-
-## Contact
-If you have any questions or suggestions, please feel free to reach out via email at `your-email@example.com`.
